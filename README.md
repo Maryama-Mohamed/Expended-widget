@@ -1,4 +1,4 @@
-# flutter_application_2
+# Expended widget
 
 A new Flutter project.
 
